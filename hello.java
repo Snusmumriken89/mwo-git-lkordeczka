@@ -1,8 +1,6 @@
-public class HelloWorld {
-
+public class SomeProgram {
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        System.out.println("We are learning to use Git.");
+		System.out.println("We will be Git experts, soon.");
     }
-
 }
